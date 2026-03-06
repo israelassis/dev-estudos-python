@@ -1,14 +1,15 @@
-![Curso em Video](http://img.shields.io/static/v1?label=CURSO%20EM%20VIDEO&message=ATIVO&color=blue&style=for-the-badge&logoColor=white)
+![Curso em Video](https://img.shields.io/badge/Curso%20em%20Vídeo-ATIVO-blue?style=for-the-badge&logo=youtube&logoColor=white)
 
-![FIAP](http://img.shields.io/static/v1?label=FIAP&message=ATIVO&color=black&style=for-the-badge&logoColor=red)
+![FIAP](https://img.shields.io/badge/FIAP-ATIVO-black?style=for-the-badge&logo=fiap&logoColor=red)
 
-![Alura](http://img.shields.io/static/v1?label=ALURA&message=ATIVO&color=blue&style=for-the-badge&logoColor=white)
+![Alura](https://img.shields.io/badge/Alura-ATIVO-blue?style=for-the-badge&logo=alura&logoColor=white)
 
-![Fundação Bradesco](http://img.shields.io/static/v1?label=FUNDAÇÃO%20BRADESCO&message=ATIVO&color=red&style=for-the-badge&logoColor=white)
+![Fundação Bradesco](https://img.shields.io/badge/Fundação%20Bradesco-ATIVO-red?style=for-the-badge&logo=bradesco&logoColor=white)
 
-![Hackers do Bem](http://img.shields.io/static/v1?label=HACKERS%20DO%20BEM&message=ATIVO&color=green&style=for-the-badge&logoColor=yellow)
+![Hackers do Bem](https://img.shields.io/badge/Hackers%20do%20Bem-ATIVO-green?style=for-the-badge&logo=hackaday&logoColor=yellow)
 
-![Santander Academy](http://img.shields.io/static/v1?label=SANTANDER%20ACADEMY&message=ATIVO&color=red&style=for-the-badge&logoColor=white)
+![Santander Academy](https://img.shields.io/badge/Santander%20Academy-ATIVO-red?style=for-the-badge&logo=santander&logoColor=white)
+
 
 
 
