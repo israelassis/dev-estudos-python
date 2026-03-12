@@ -13,7 +13,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 * [🖼️ Galeria de Desafios](#galeria-de-desafios)
 
 ---
-<a id="painel-de-controle"></a>
+<a id="painel-de-progresso"></a>
 ## 📊 Painel de Progresso
 
 | Plataforma | Status | Principais Tópicos |
