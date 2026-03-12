@@ -1,4 +1,4 @@
-# 🐍 Python Learning Ecosystem
+# 🐍 Ecosistema de Aprendizado Python
 
 Repositório centralizado de estudos em Python, consolidando desafios práticos, lógica de programação e projetos acadêmicos de diferentes plataformas.
 
