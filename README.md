@@ -8,9 +8,9 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 * [📊 Painel de Progresso](#-painel-de-progresso)
 * [🎓 Formações](#-formações)
     * [Curso em Vídeo (Gustavo Guanabara)](#curso-em-vídeo)
-    * [FIAP ON](#fiap-on)
+    * [FIAP ON](#fiap)
 * [🛠️ Tecnologias e Bibliotecas](#️-tecnologias-e-bibliotecas)
-* [🖼️ Galeria de Desafios](#-galeria-de-desafios)
+* [🖼️ Galeria de Desafios](#galeria-de-desafios)
 
 ---
 
@@ -57,6 +57,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 
 ---
 
+<a id="galeria-de-desafios"></a>
 ## 🖼️ Galeria de Desafios
 
 Aqui estão alguns destaques visuais dos desafios mais complexos:
