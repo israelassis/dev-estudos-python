@@ -1,42 +1,45 @@
-🧮 Mini Projeto de Aritmética em Python
+# Mini Projeto de Aritmética em Python  🐍🧮
 Este projeto reúne exercícios básicos de aritmética, uso de bibliotecas (math, random) e automatização de números.
+
 Foi inspirado nos desafios do curso Python Mundo 01 do Curso em Vídeo.
 
-📌 Funcionalidades
-Antecessor e Sucessor de um número aleatório.
+---
+📌 Funcionalidades:
 
-Dobro, Triplo e Raiz Quadrada usando math.sqrt.
+* Antecessor e Sucessor de um número aleatório.
 
-Média Aritmética de três notas aleatórias.
+* Dobro, Triplo e Raiz Quadrada usando math.sqrt.
 
-Conversor de Medidas (metros para km, hm, dam, cm, mm).
+* Média Aritmética de três notas aleatórias.
 
-Tabuada de um número aleatório (1 a 10).
+* Conversor de Medidas (metros para km, hm, dam, cm, mm).
 
-Conversor de Moedas (Reais → Dólares).
+* Tabuada de um número aleatório (1 a 10).
 
-Cálculo de Tinta para pintar uma parede.
+* Conversor de Moedas (Reais → Dólares).
 
-Descontos aplicados em preços.
+* Cálculo de Tinta para pintar uma parede.
 
-Reajuste Salarial com aumento percentual.
+* Descontos aplicados em preços.
 
-Conversor de Temperatura (Celsius → Fahrenheit e Kelvin).
+* Reajuste Salarial com aumento percentual.
 
-Aluguel de Carros com cálculo de custo por dias e km rodados.
+* Conversor de Temperatura (Celsius → Fahrenheit e Kelvin).
 
-🚀 Tecnologias
-Python 3
+* Aluguel de Carros com cálculo de custo por dias e km rodados.
 
-Bibliotecas padrão: math, random
+---
+🚀 Tecnologias: Python 3
 
-🎯 Objetivo
-Praticar:
+* Bibliotecas padrão: math, random
 
-Operações matemáticas básicas
+---
+🎯 Objetivo: Praticar!
 
-Uso de funções da biblioteca math
+* Operações matemáticas básicas
 
-Geração de valores aleatórios com random
+* Uso de funções da biblioteca math
 
-Formatação de strings e saída organizada
+* Geração de valores aleatórios com random
+
+* Formatação de strings e saída organizada
