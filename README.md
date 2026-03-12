@@ -4,7 +4,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 
 ---
 
-## 📍 Sumário (#sumario)
+## [📍 Sumário](#sumario) 
 * [📊 Painel de Progresso](#painel-de-progresso)
 * [🎓 Formações](#formações)
     * [Curso em Vídeo (Gustavo Guanabara)](#curso-em-vídeo)
@@ -26,7 +26,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 | :--- | :--- | :--- |
 | Legenda | Kanban: | ⚪ Fazer 🟡 Fazendo 🟢 Feito |
 <br>
-<a id="sumario"></a>
+<a id="sumario">[📍 Sumário]</a>
 ---
 
 <a id="formações"></a>
@@ -49,7 +49,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 Conteúdo voltado para padrões de mercado e arquitetura.
 * **Fase 1:** Aguardando.... [Explorar pasta](./...)
 <br>
-<a id="sumario"></a>
+<a id="sumario">[📍 Sumário]</a>
 
 
 ---
@@ -59,7 +59,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 * **Bibliotecas Frequentes:** `math`, `datetime`, `random`, `os`
 * **Ambiente:** VS Code / PyCharm
 <br>
-<a id="sumario"></a>
+<a id="sumario">[📍 Sumário]</a>
 ---
 
 <a id="galeria-de-desafios"></a>
@@ -74,8 +74,7 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 | **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Lógica de condições aninhadas (Curso em Vídeo).     |
 | **Validador de CPF** | <img src="./docs/assets/cpf.png" width="200">               | Algoritmo de validação matemática (FIAP).           |
 
-<a id="sumario"></a>
->>>>>>> f5ac48f441c4bbec8707da565cba4e7e7dbf9713
+<a id="sumario">[📍 Sumário]</a>
 ---
 
 ## 🚀 Como utilizar
@@ -83,4 +82,4 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 2. Navegue até a pasta da plataforma desejada.
 3. Execute os scripts individuais para testar a lógica.
 <br>
-<a id="sumario"></a>
+<a id="sumario">[📍 Sumário]</a>
