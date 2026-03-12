@@ -25,6 +25,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 | **FIAP - Py para Dev´s** | ⚪ 0% |  |
 | :--- | :--- | :--- |
 | Legenda | Kanban: | ⚪ Fazer 🟡 Fazendo 🟢 Feito |
+<br>
 <a id="sumario"></a>
 ---
 
@@ -47,6 +48,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 ### 🎓 FIAP - Py para Dev´s
 Conteúdo voltado para padrões de mercado e arquitetura.
 * **Fase 1:** Aguardando.... [Explorar pasta](./...)
+<br>
 <a id="sumario"></a>
 
 
@@ -56,6 +58,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 * **Linguagem:** Python 3.11+
 * **Bibliotecas Frequentes:** `math`, `datetime`, `random`, `os`
 * **Ambiente:** VS Code / PyCharm
+<br>
 <a id="sumario"></a>
 ---
 
@@ -64,22 +67,14 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 
 Aqui estão alguns destaques visuais dos desafios mais complexos:
 
-<<<<<<< HEAD
-| Desafio | Visualização | Descrição |
-| :--- | :--- | :--- |
-<<<<<<< HEAD
-| **Jogo Jokenpô** | ![Print](./docs/assets/jokenpo.jpg) | Lógica de condições aninhadas (Curso em Vídeo). |
-=======
-| **Jogo Jokenpô** | ![Print](./docs/asets/jokenpo.jpg) | Lógica de condições aninhadas (Curso em Vídeo). |
->>>>>>> b34db2ff7818ea857fb0ef9d6aaff0aef18edfae
-| **Validador de CPF** | ![Print](./docs/assets/cpf.png) | Algoritmo de validação matemática (FIAP). |
-<a id="sumario"></a>
+
 =======
 | Desafio          | Visualização                                                | Descrição                                           |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------|
 | **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Lógica de condições aninhadas (Curso em Vídeo).     |
 | **Validador de CPF** | <img src="./docs/assets/cpf.png" width="200">               | Algoritmo de validação matemática (FIAP).           |
 
+<a id="sumario"></a>
 >>>>>>> f5ac48f441c4bbec8707da565cba4e7e7dbf9713
 ---
 
@@ -87,4 +82,5 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 1. Clone o repositório: `git clone https://github.com/seu-usuario/python-learning-ecosystem.git`
 2. Navegue até a pasta da plataforma desejada.
 3. Execute os scripts individuais para testar a lógica.
+<br>
 <a id="sumario"></a>
