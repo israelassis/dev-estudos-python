@@ -18,9 +18,13 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 
 | Plataforma | Status | Principais Tópicos |
 | :--- | :--- | :--- |
-| **Curso em Vídeo** | 🟢 100% | Lógica, Tuplas, Listas, Dicionários |
-| **FIAP ON** | 🟡 45% | OOP, Estruturas de Decisão, Data Science |
-
+| **Curso em Vídeo - Mundo 1** | 🟡 80% | Lógica, Tuplas, Listas, Bibliotecas, If/While/For |
+| **Curso em Vídeo - Mundo 2** | ⚪ 0% | -- |
+| **Curso em Vídeo - Mundo 3** | ⚪ 0% | -- |
+| **FIAP - Fundamentos Py** | 🟡 45% | OOP, Dicionários, If/While/For, Estruturas de Decisão, Data Science |
+| **FIAP - Py para Dev´s** | ⚪ 0% |  |
+| :--- | :--- | :--- |
+| Legenda | Kanban: | ⚪ Fazer 🟡 Fazendo 🟢 Feito |
 ---
 
 ## 🎓 Formações
@@ -28,15 +32,21 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 <a id="curso-em-video"></a>
 ### 📺 Curso em Vídeo
 Focado na base sólida de algoritmos e tratamento de dados.
-* **Mundo 1:** Primeiros passos, tipos primitivos e módulos. [Explorar pasta](./curso-em-video/mundo-1-fundamentos/)
-* **Mundo 2:** Condições e repetições (for/while). [Explorar pasta](./curso-em-video/mundo-2-estruturas/)
-* **Mundo 3:** Estruturas compostas e funções. [Explorar pasta](./curso-em-video/mundo-3-compostas/)
+* **Mundo 1:** Primeiros passos, tipos primitivos e módulos, condições e repetições (for/while). [Explorar pasta](./.../)
+* **Mundo 2:** .... (for/while). [Explorar pasta](./.../)
+* **Mundo 3:** .... [Explorar pasta](./.../)
 
-<a id="fiap-on"></a>
-### 🎓 FIAP ON
+<a id="fiap"></a>
+### 🎓 FIAP - Fundamentos Py
 Conteúdo voltado para padrões de mercado e arquitetura.
-* **Fase 1:** Lógica aplicada e entrada de dados. [Explorar pasta](./fiap-python-on/fase-1-primeiros-passos/)
-* **Fase 2:** Manipulação avançada e Checkpoints. [Explorar pasta](./fiap-python-on/fase-2-estrutura-dados/)
+* **Fase 1:** Lógica aplicada e entrada de dados. [Explorar pasta](./.../)
+* **Fase 2:** Manipulação avançada e Checkpoints. [Explorar pasta](./.../)
+
+### 🎓 FIAP - Py para Dev´s
+Conteúdo voltado para padrões de mercado e arquitetura.
+* **Fase 1:** Aguardando.... [Explorar pasta](./...)
+
+
 
 ---
 
