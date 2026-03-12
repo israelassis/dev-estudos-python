@@ -65,8 +65,8 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 
 | Desafio | Visualização | Descrição |
 | :--- | :--- | :--- |
-| **Jogo Jokenpô** | ![Print](./docs/assets/jokenpo.png) | Lógica de condições aninhadas (Curso em Vídeo). |
-| **Validador de CPF** | ![Print](./docs/assets/validador.png) | Algoritmo de validação matemática (FIAP). |
+| **Jogo Jokenpô** | ![Print](./docs/assets/jokenpo.jpg) | Lógica de condições aninhadas (Curso em Vídeo). |
+| **Validador de CPF** | ![Print](./docs/assets/cpf.png) | Algoritmo de validação matemática (FIAP). |
 
 ---
 
