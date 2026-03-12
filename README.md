@@ -64,6 +64,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 
 Aqui estão alguns destaques visuais dos desafios mais complexos:
 
+<<<<<<< HEAD
 | Desafio | Visualização | Descrição |
 | :--- | :--- | :--- |
 <<<<<<< HEAD
@@ -73,6 +74,13 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 >>>>>>> b34db2ff7818ea857fb0ef9d6aaff0aef18edfae
 | **Validador de CPF** | ![Print](./docs/assets/cpf.png) | Algoritmo de validação matemática (FIAP). |
 <a id="sumario"></a>
+=======
+| Desafio          | Visualização                                                | Descrição                                           |
+|------------------|-------------------------------------------------------------|-----------------------------------------------------|
+| **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Lógica de condições aninhadas (Curso em Vídeo).     |
+| **Validador de CPF** | <img src="./docs/assets/cpf.png" width="200">               | Algoritmo de validação matemática (FIAP).           |
+
+>>>>>>> f5ac48f441c4bbec8707da565cba4e7e7dbf9713
 ---
 
 ## 🚀 Como utilizar
