@@ -5,15 +5,15 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 ---
 
 ## 📍 Sumário
-* [📊 Painel de Progresso](#-painel-de-progresso)
-* [🎓 Formações](#-formações)
+* [📊 Painel de Progresso](#painel-de-progresso)
+* [🎓 Formações](#formações)
     * [Curso em Vídeo (Gustavo Guanabara)](#curso-em-vídeo)
-    * [FIAP ON](#fiap)
-* [🛠️ Tecnologias e Bibliotecas](#️-tecnologias-e-bibliotecas)
+    * [FIAP](#fiap)
+* [🛠️ Tecnologias e Bibliotecas](#tecnologias-e-bibliotecas)
 * [🖼️ Galeria de Desafios](#galeria-de-desafios)
 
 ---
-
+<a id="painel-de-controle"></a>
 ## 📊 Painel de Progresso
 
 | Plataforma | Status | Principais Tópicos |
@@ -27,6 +27,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 | Legenda | Kanban: | ⚪ Fazer 🟡 Fazendo 🟢 Feito |
 ---
 
+<a id="formações"></a>
 ## 🎓 Formações
 
 <a id="curso-em-video"></a>
@@ -49,7 +50,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 
 
 ---
-
+<a id="tecnologias-e-bibliotecas"></a>
 ## 🛠️ Tecnologias e Bibliotecas
 * **Linguagem:** Python 3.11+
 * **Bibliotecas Frequentes:** `math`, `datetime`, `random`, `os`
