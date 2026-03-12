@@ -4,7 +4,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 
 ---
 
-## 📍 Sumário
+## 📍 Sumário (#sumario)
 * [📊 Painel de Progresso](#painel-de-progresso)
 * [🎓 Formações](#formações)
     * [Curso em Vídeo (Gustavo Guanabara)](#curso-em-vídeo)
@@ -25,6 +25,7 @@ Repositório centralizado de estudos em Python, consolidando desafios práticos,
 | **FIAP - Py para Dev´s** | ⚪ 0% |  |
 | :--- | :--- | :--- |
 | Legenda | Kanban: | ⚪ Fazer 🟡 Fazendo 🟢 Feito |
+<a id="sumario"></a>
 ---
 
 <a id="formações"></a>
@@ -46,7 +47,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 ### 🎓 FIAP - Py para Dev´s
 Conteúdo voltado para padrões de mercado e arquitetura.
 * **Fase 1:** Aguardando.... [Explorar pasta](./...)
-
+<a id="sumario"></a>
 
 
 ---
@@ -55,7 +56,7 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 * **Linguagem:** Python 3.11+
 * **Bibliotecas Frequentes:** `math`, `datetime`, `random`, `os`
 * **Ambiente:** VS Code / PyCharm
-
+<a id="sumario"></a>
 ---
 
 <a id="galeria-de-desafios"></a>
@@ -71,10 +72,11 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 | **Jogo Jokenpô** | ![Print](./docs/asets/jokenpo.jpg) | Lógica de condições aninhadas (Curso em Vídeo). |
 >>>>>>> b34db2ff7818ea857fb0ef9d6aaff0aef18edfae
 | **Validador de CPF** | ![Print](./docs/assets/cpf.png) | Algoritmo de validação matemática (FIAP). |
-
+<a id="sumario"></a>
 ---
 
 ## 🚀 Como utilizar
 1. Clone o repositório: `git clone https://github.com/seu-usuario/python-learning-ecosystem.git`
 2. Navegue até a pasta da plataforma desejada.
 3. Execute os scripts individuais para testar a lógica.
+<a id="sumario"></a>
