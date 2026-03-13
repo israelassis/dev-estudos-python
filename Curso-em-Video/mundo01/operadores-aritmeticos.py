@@ -1,7 +1,7 @@
 import math #importar todo modulo math
 # <from math import sqrt, ceil> == importado apenas sqrt e ceil de math
 import random
- 
+
 
 
 print("="*30)
@@ -109,5 +109,42 @@ custo_km = km * 0.15 #considerando R$0,15 por km
 custo_total = custo_dias + custo_km
 print(f"Alugando um carro por {dias} dias e rodar por {km} KM:")
 print(f"\tO custo total do aluguel é: R$ {custo_total:.2f} \n- Custo por dias: R$ {custo_dias:.2f} \n- Custo por km: R$ {custo_km:.2f}")
+
+
+print("\nTrazer a parte inteira de um Número: ")
+num = random.uniform(1,10) #retorna random float
+print(f"\nA porção inteira do numero: {{:.2f}} é:  {{}}".format(num, math.trunc(num)))
+
+
+
+print("Calcular a hipotenusa de um triangulo retangulo")
+cat_oposto = random.randint(1,100)
+cat_adjacente = random.randint(1,100)
+# hipotenusa = math.sqrt(cat_oposto ** 2 + cat_adjacente ** 2)
+hipotenusa = math.hypot(cat_oposto, cat_adjacente) # praticidade do modulo
+print(f"\nCateto Oposto: {{:.2f}} e Cateto Adjacente é: {{:.2f}}".format(cat_oposto, cat_adjacente))
+print(f"\tA hipotenusa vai medir {{:.2f}}".format(hipotenusa))
+
+
+print("Calculo de Ângulos:")
+angulo = random.randint(1,100)
+sen = math.sin(math.radians(angulo)) # converte para radianos, depois converte para Seno
+cos = math.cos(math.radians(angulo))
+tan = math.tan(math.radians(angulo))
+print(f"\nAngulo de {{:.2f}}. \nPossui: SEN = {{:.2f}} | COS = {{:.2f}} | TAN = {{:.2f}}".format(angulo,sen,cos,tan))
+
+
+print("Sorteio de Nomes")
+nome1 = str(input("Digite o 1º nome: "))
+nome2 = str(input("Digite o 2º nome: "))
+nome3 = str(input("Digite o 3º nome: "))
+nome4 = str(input("Digite o 4º nome: "))
+lista = [nome1, nome2, nome3, nome4]
+escolhido = random.choice(lista)
+print(f"\nO nomes do sorteio são: {{}} | {{}} | {{}} | {{}}".format(nome1, nome2, nome3, nome4))
+print(f"\nVamos embaralhar as opções: {{}} ".format(lista, random.shuffle(lista))) # shuffle = embaralhar
+print(f"\tO nome escolhido no sorteio foi === {{}}. \nP.A.R.A.B.E.N.S  {{}}!".format(escolhido,escolhido.upper()))
+
+
 
 print("\n== Final ==")
