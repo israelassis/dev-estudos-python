@@ -35,7 +35,7 @@ while palpite != numero_sorteado: #enquanto TRUE (é diferente do numero sortead
 ###### - Jogo Intermediário - Com tratamento de Exceções e Validação de Regras de Negócio
 
 #função - maquininha 
-"""
+
 def jogar_adivinhacao():
     print(f"\n{'-'*10} Bem-vindo ao Game! {'-'*10}")
 
@@ -62,12 +62,14 @@ def jogar_adivinhacao():
 
             #3. Logica de comparação
             if palpite == num_sorteado:
-                print(f"🎉 PARABÉNS! O número aleatório era: {num_sorteado}")
+                print(f"\t🎉 PARABÉNS! O número aleatório era: {num_sorteado}")
                 acertou = True
             else:
                 # Calculo de proximidade
-                distancia = abs(num_sorteado-palpite)
-                feedbak = "perto" if distancia <= 5 else "longe"
+                   
+                distancia = abs(num_sorteado-palpite) #modulo de x = |x| == distancia: abs(10 - 15) # Resultado: 5 (em vez de -5)
+                feedbak = "perto" if distancia <= 5 else "longe" # Padrão TERNÁRIO == Se a distância for <= 5, feedback recebe "perto", senão recebe "longe"
+                feedback = "perto" if distancia <= 5 else "longe"
                 direcao = "maior" if palpite < num_sorteado else "menor"
 
                 print(f"Você errou! Está {feedbak}. Dica: o número aleatório é {direcao}.")
@@ -78,13 +80,3 @@ def jogar_adivinhacao():
 
 if __name__ == "__main__":
     jogar_adivinhacao()
-"""
-
-
-
-
-for i in range(5):
-    if i == 2:
-        continue  # Pula o número 2
-print(i) 
-# Resultado: 0, 1, 3, 4
