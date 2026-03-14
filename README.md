@@ -65,11 +65,12 @@ Conteúdo voltado para padrões de mercado e arquitetura.
 Aqui estão alguns destaques visuais dos desafios mais complexos:
 
 
-=======
+---
 | Desafio          | Visualização                                                | Descrição                                           |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------|
-| **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Lógica de condições aninhadas (Curso em Vídeo).     |
-| **Validador de CPF** | <img src="./docs/assets/cpf.png" width="200">               | Algoritmo de validação matemática (FIAP).           |
+| **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Operações matemáticas básicas, conversões e manipulação simples de entrada [biblioteca: math e random, f-strings, controle de fluxo: for i in range(1, 11), operadores: avançados](Curso em Vídeo).     |
+| **Jogo da Adivinhação**     | <img src="./docs/assets/jogo-adivinhacao.png.png" width="200">           | jogo interativo de console onde o usuário tenta adivinhar um número secreto gerado aleatoriamente pelo computador dentro de um intervalo definido (Curso em Vídeo).     |
+| **Validador de CPF** | <img src="./docs/assets/validador-cpf.png.png" width="200">               | Valida o Cadastro de Pessoas Físicas (CPF) brasileiro. Lógica oficial da Receita Federal para sanitizar a entrada e verificar a autenticidade dos dígitos verificadores (FIAP).           |
 
 ---
 
