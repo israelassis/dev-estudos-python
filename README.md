@@ -69,11 +69,7 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 | Desafio          | Visualização                                                | Descrição                                           |
 |------------------|-------------------------------------------------------------|-----------------------------------------------------|
 | **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Operações matemáticas básicas, conversões e manipulação simples de entrada [biblioteca: math e random, f-strings, controle de fluxo: for i in range(1, 11), operadores: avançados](Curso em Vídeo).     |
-<<<<<<< HEAD
-| **Jogo da Adivinhação**     | <img src="./docs/assets/jogo-adivinhacao.png.png" width="200">           | jogo interativo de console onde o usuário tenta adivinhar um número secreto gerado aleatoriamente pelo computador dentro de um intervalo definido (Curso em Vídeo).     |
-=======
 | **Jogo da Adivinhação**     | <img src="./docs/assets/jogo-adivinhacao.png.png" width="200">           | Jogo interativo de console onde o usuário tenta adivinhar um número secreto gerado aleatoriamente pelo computador dentro de um intervalo definido (Curso em Vídeo).     |
->>>>>>> 31f895a84a49ca190ffb35debbfb172d1077e661
 | **Validador de CPF** | <img src="./docs/assets/validador-cpf.png.png" width="200">               | Valida o Cadastro de Pessoas Físicas (CPF) brasileiro. Lógica oficial da Receita Federal para sanitizar a entrada e verificar a autenticidade dos dígitos verificadores (FIAP).           |
 
 ---
