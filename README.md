@@ -72,7 +72,7 @@ Aqui estão alguns destaques visuais dos desafios mais complexos:
 | **Jogo Jokenpô**     | <img src="./docs/assets/jokenpo.jpg" width="200">           | Conversões e manipulação simples de entrada [biblioteca: math e random, f-strings, controle de fluxo: for i in range(1, 11), operadores: avançados](Curso em Vídeo).     |
 | **Jogo da Adivinhação**     | <img src="./docs/assets/jogo-adivinhacao.png.png" width="200">           | jogo interativo de console onde o usuário tenta adivinhar um número secreto gerado aleatoriamente pelo computador dentro de um intervalo definido (Curso em Vídeo).     |
 | **Validador de CPF** | <img src="./docs/assets/validador-cpf.png.png" width="200">               | Valida o Cadastro de Pessoas Físicas (CPF) brasileiro. Lógica oficial da Receita Federal para sanitizar a entrada e verificar a autenticidade dos dígitos verificadores (FIAP).           |
-| **Porta Mágica - Masmorras** | <img src="./docs/assets/masmorras.PNG" width="250">               | Este projeto é um excelente exemplo de como utilizar loops, condicionais, manipulação de entrada de usuarios, escolhas aleatórias (random) e lógica booleana para criar interatividade em programas simples de linha de comando. 
+| **Porta Mágica - Masmorras** | <img src="./docs/assets/masmorras.PNG" width="200">               | Escolha uma opção de porta e a cada escolha um monstro aleatorio pode aparecer (FIAP)
 
 ---
 

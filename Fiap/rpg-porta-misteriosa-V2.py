@@ -16,6 +16,7 @@ def jogar_rpg_portas():
   print(f"Cuidado! Uma porta aleatória em cada rodada contém um monstro espreitando.\nVocê começa com {vidas} vidas. Boa sorte!")
   print("--------------------------")
   print("""\n
+        
       [1]   [2]   [3]   [4]   [5]
    _____ _____ _____ _____ _____
   |     |     |     |     |     |

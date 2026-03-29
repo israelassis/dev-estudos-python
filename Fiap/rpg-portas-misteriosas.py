@@ -1,7 +1,7 @@
 import random
 
 """
-RPG das Portas Misteriosas
+RPG das Portas Misteriosas - PRIMEIRO ESBOÇO!!!
 --------------------------
 Um mini jogo em Python onde o jogador precisa atravessar 5 portas para chegar ao tesouro.
 Em cada rodada, uma porta aleatória contém um monstro. Se o jogador escolher essa porta,
